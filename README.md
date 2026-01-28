@@ -208,6 +208,7 @@ public class UnitOfWork : IUnitOfWork
 |-----------------|--------------|-----------|
 | 8.0             | .NET 8       | ✅        |
 | 9.0             | .NET 9       | ✅        |
+| 10.0            | .NET 10      | ✅        |
 
 ## Why Not Just Use SQLite?
 
